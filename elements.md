@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Corporate Events
 nav-menu: true
 ---
 
