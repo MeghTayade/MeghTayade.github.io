@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Looking for'
+landing-title: 'Looking to throw a fantastic cocktail party?'
 description: null
 image: null
 author: null
