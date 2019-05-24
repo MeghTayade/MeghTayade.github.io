@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Megh Tayade
 landing-title: 'Looking to throw a fantastic cocktail party?'
 description: null
 image: null
