@@ -16,8 +16,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">What do we provide</h2>
-<h4>We bring Professional Bartending Experience to you</h4>
+<h2 id="content">We bring Professional Bartending Experience to you</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
