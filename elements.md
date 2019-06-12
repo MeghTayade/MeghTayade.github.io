@@ -19,8 +19,7 @@ nav-menu: true
 <h2 id="content">We bring Professional Bartending Experience to you</h2>
 <p>Got a Special Day coming up? Want to give your guests an amazing drinking experience? You landed at the right place.</p>  
 <p>We provide you with fully equipped bartending service for an event of any size. We have a group of highly trained and internationally certified bartenders to serve guests on your very special day.</p>
-<h2 id="content">What we will do?</h2>
-<!-- Break-->
+<center><h2 id="content">What we will do?</h2></center>
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<h3>Bring our own bar supplies including the alcohol</h3>
