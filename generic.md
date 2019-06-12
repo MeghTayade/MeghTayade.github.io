@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Cocktail Parties
-image: assets/images/Cocktail_Party.jpg
+title: Corporate Events
+image: assets/images/Corporate_Events.jpg
 nav-menu: true
 ---
 
