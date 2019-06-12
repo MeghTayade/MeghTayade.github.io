@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Private Parties
-description: Lorem ipsum dolor est
+title: Cocktail Parties
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
