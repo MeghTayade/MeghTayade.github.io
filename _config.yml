@@ -1,11 +1,11 @@
 # site settings
-title: Megh Tayade
+title: Megh
 subtitle: Certified International Bartender
 email: meghtayade13@gmail.com
 description: Well, we got you covered
 # baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://meghtayade.github.io" # the base hostname & protocol for your site
-author: Megh Tayade
+author: Megh
 #street_address: 
 city: Pune
 state: Maharashtra
