@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Corporate Events
-image: assets/images/Corporate_Events.jpg
+title: Special Event Parties
+image: assets/images/Cocktail_Party.jpg
 nav-menu: true
 ---
 
@@ -12,11 +12,13 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Corporate Events</h1>
+			<h1>Special Event Parties</h1>
 		</header>
 
 <!-- Content -->
 <h2 id="content">We bring Professional Bartending Experience to you</h2>
+<p>Got a Special Day coming up? Want to give your guests an amazing drinking experience? You landed at the right place.</p>  
+<p>We provide you with fully equipped bartending service for an event of any size. We have a group of highly trained and internationally certified bartenders to serve guests on your very special day.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
