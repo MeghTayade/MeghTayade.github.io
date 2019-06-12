@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cocktail Parties
-image: assets/images/pic11.jpg
+image: assets/images/Cocktail_Party.jpg
 nav-menu: true
 ---
 
