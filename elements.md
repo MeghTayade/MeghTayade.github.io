@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Corporate Events
+image: assets/images/Corporate_Events.jpg
 nav-menu: true
 ---
 
