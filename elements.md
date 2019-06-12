@@ -35,6 +35,9 @@ nav-menu: true
 	</div>
 </div>
 
+<h4 id="content">We just need you tell us where, when, how many guests and then you can forget about it !</h4>
+<p>Sit back, relax and let us handle details like planning menu, quantity of drinks, getting alcohol and all other things. If you have any special requests, we would love to include them. We will even give you suggestions based on your requirements.</p> 
+
 <hr class="major" />
 
 <!-- Elements -->
